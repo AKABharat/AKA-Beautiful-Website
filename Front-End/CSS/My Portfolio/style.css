@@ -1,0 +1,178 @@
+/* #################################   selector   ################################## */
+/* 
+div{
+  background-color: #E4F9F5;
+} */
+
+body {
+    margin: 0;
+    /* margin-bottom: 0; */
+}
+h1{
+    margin:50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size:5.625rem;
+    color: #66BFBF;
+}
+
+
+h2{
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-weight:normal;
+  color:#11999E;
+  font-size: 250%;
+}
+h3{
+  color:  #11999E;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+}
+a{
+  color:  #11999E;
+}
+
+p{
+  font-family: 'Nunito', sans-serif;
+}
+
+hr{
+  border-style: dotted;
+  border-width: 5px 0 0 0;
+  width: 3%;
+  color: #dbe5e5;
+}
+
+/* #################################  class selector   ################################## */
+
+.avatar{
+  margin: 50px 0;
+  margin-bottom: 0;
+}
+
+.subHeading{
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  margin: 0 auto auto auto;
+  color: #66BFBF;
+}
+
+.top-container{
+  position: relative;
+  background-color: #E4F9F5;
+  padding-top :56px;
+  text-align: center;
+}
+
+.mountain{
+  width: 47%;
+}
+
+.text-content{
+  color: #40514E;
+  padding: 0 28rem;
+}
+
+.cloud-1{
+position: absolute;
+right: 200px;
+top: 70px;
+}
+.cloud-2{
+  position: absolute;
+  left: 160px;
+}
+
+.underline{
+  text-decoration: underline;
+}
+.middle-container{
+text-align: center;
+} 
+
+.bottom-container{
+text-align: center;
+} 
+.skill-row{
+  width: 50% ;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer-image{
+  width: 25%;
+  float: left;
+  margin: 15px 30px;
+}
+.car-image{
+  width: 25%;
+  background-color: white;
+  color: white;
+
+  border-radius: 100%;
+  /* height: 50%; */
+  float:right;
+  margin: auto 30px;
+}
+.avatar{
+  width: 10%;
+}
+
+
+
+.get-in-touch{
+  font-weight:lighter;
+}
+
+.button {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.botton-text{
+  padding-bottom:20px ;
+}
+.contact-me{
+  margin: 0 0 90px 0;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  margin: 0;
+  padding: 40px;
+}
+.footer-link{
+  font-family: 'Nunito', sans-serif;
+  text-decoration: none;
+  margin: auto 20px;
+}
+
+.footer-last{
+  
+  color: white;
+}
+/* #################################  id selector   ################################## */
